@@ -1,5 +1,6 @@
 # JavaSript-Practice
-JavaScript Practice Work
-This was meant to be a continuous piece it is now just one file of the first basic work...super basic work.
+JavaScript Practice Work - This was meant to be a continuous piece it will now just be one big repository of multiple scripts.
 
-Added another file for some more simple variable work, unintialized variables
+Added uninitilized variable script
+
+Added Case Sensitivity work
