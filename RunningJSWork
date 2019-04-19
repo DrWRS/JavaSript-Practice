@@ -1,0 +1,12 @@
+// Single line comment
+/* Multiple Line
+Comment*/
+
+// Variable assignment
+var myName;
+var myNum = 420;
+
+ myName = DrWRS;
+ cout = myName;
+ cout = myNum;
+ 
