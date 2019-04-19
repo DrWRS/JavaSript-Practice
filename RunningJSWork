@@ -10,3 +10,4 @@ var myNum = 420;
  cout = myName;
  cout = myNum;
  
+// End of basic variable work
