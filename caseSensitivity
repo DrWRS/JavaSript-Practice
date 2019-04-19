@@ -1,0 +1,15 @@
+/* MYVAR is not the same as MyVar nor myvar.  It is possible to have multiiple distinct  variables with the same name using different casing
+It is strongly recommended for the sake of clarity, NOT using this language feature */
+
+// Declarations
+
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
+
+// Assignments
+studlyCapVar = 10;
+properCamelCase = "A String";
+titleCaseOver = 9000;
+
+// End of script
