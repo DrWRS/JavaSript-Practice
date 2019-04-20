@@ -1,0 +1,7 @@
+/* Number is a data type in JavaScript which represents numeric data.
+Now let's try to add two numbers using JavaScript.
+JavaScript uses the + symbol as addition operation when placed between two numbers. */
+
+var sum = 10 + 10;          // Simple addition = 20
+var difference = 45 - 33;   // Simnple subtraction = 12
+var product = 8 * 10;       // Simple multiplication = 80
