@@ -30,6 +30,9 @@ Note - Not all real numbers can accurately be represented in floating point. Thi
 
 var myDecimal = 4.20;         // Decimal/Floating point number
 
+/* In JavaScript, you can also perform calculations with decimal numbers, just like whole numbers.
+Let's multiply two decimals together to get their product. */
 
+var product = 2.0 * 2.5;      // This will give the product of 5
 
 // End of Simple arithmetic, incrementation, and decrementation
