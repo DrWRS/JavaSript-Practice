@@ -25,4 +25,11 @@ var myVar = 11;
 myVar = myVar - 1;           // Instead of this use the next example
 myVar--;                     // This will decrease the myVar variable making it equal to 10
 
+/* We can store decimal numbers in variables too. Decimal numbers are sometimes referred to as floating point numbers or floats.
+Note - Not all real numbers can accurately be represented in floating point. This can lead to rounding errors. Details Here. */
+
+var myDecimal = 4.20;         // Decimal/Floating point number
+
+
+
 // End of Simple arithmetic, incrementation, and decrementation
