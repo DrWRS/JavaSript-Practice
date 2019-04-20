@@ -5,3 +5,4 @@ JavaScript uses the + symbol as addition operation when placed between two numbe
 var sum = 10 + 10;          // Simple addition = 20
 var difference = 45 - 33;   // Simnple subtraction = 12
 var product = 8 * 10;       // Simple multiplication = 80
+var quotient = 66 / 33;     // Simple division = 2
