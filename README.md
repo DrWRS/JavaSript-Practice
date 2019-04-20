@@ -1,6 +1,12 @@
 # JavaSript-Practice
-JavaScript Practice Work - This was meant to be a continuous piece it will now just be one big repository of multiple scripts.
+JavaScript Practice Work
 
-Added uninitilized variable script
+Added examples of uninitilized variable script
 
-Added Case Sensitivity work
+Added examples of Case Sensitivity work
+
+Added examples of simple arithmetic
+
+Added examples of decimal/floating point numbers
+
+Added examples of multiplication and division of decimals/floating numbers
