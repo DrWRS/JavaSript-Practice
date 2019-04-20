@@ -6,3 +6,12 @@ var sum = 10 + 10;          // Simple addition = 20
 var difference = 45 - 33;   // Simnple subtraction = 12
 var product = 8 * 10;       // Simple multiplication = 80
 var quotient = 66 / 33;     // Simple division = 2
+
+/* You can easily increment or add one to a variable with the ++ operator.  
+i++; is the equivalent of i = i + 1; 
+Note - The entire line becomes i++;, eliminating the need for the equal sign. */
+
+// Example of the ++ operator removing the = sign
+var myVar = 87;
+
+myVar = myVar++; // This will increment the myVar variable making it equal to 88
