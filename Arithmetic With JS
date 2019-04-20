@@ -35,4 +35,8 @@ Let's multiply two decimals together to get their product. */
 
 var product = 2.0 * 2.5;      // This will give the product of 5
 
+/* Now let's divide one decimal by another. */
+
+var quotient = 4.4 / 2.0;     // This quotient with equal 2.2
+
 // End of Simple arithmetic, incrementation, and decrementation
