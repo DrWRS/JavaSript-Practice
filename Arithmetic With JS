@@ -11,7 +11,18 @@ var quotient = 66 / 33;     // Simple division = 2
 i++; is the equivalent of i = i + 1; 
 Note - The entire line becomes i++;, eliminating the need for the equal sign. */
 
-// Example of the ++ operator removing the = sign
+// Example of incrementation using the ++ operator removing the = sign
 var myVar = 87;
+myVar = myVar + 1;          // Instead of this use the next example
+myVar++;                    // This will increment the myVar variable making it equal to 88
 
-myVar = myVar++; // This will increment the myVar variable making it equal to 88
+/* You can easily decrement or decrease a variable by one with the -- operator.
+i--; is the equivalent of i = i - 1;
+Note - The entire line becomes i--;, eliminating the need for the equal sign. */
+
+// Example of decrementation using the -- operator removing the = sign
+var myVar = 11;             
+myVar = myVar - 1;           // Instead of this use the next example
+myVar--;                     // This will decrease the myVar variable making it equal to 10
+
+// End of Simple arithmetic, incrementation, and decrementation
