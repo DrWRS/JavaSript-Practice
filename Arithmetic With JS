@@ -39,4 +39,17 @@ var product = 2.0 * 2.5;      // This will give the product of 5
 
 var quotient = 4.4 / 2.0;     // This quotient with equal 2.2
 
+/* The remainder operator % gives the remainder of the division of two numbers. 
+Usage - In mathematics, a number can be checked to be even or odd by checking the remainder of the division of the number by 2. 
+17 % 2 = 1 (17 is Odd)
+48 % 2 = 0 (48 is Even) 
+
+Note - The remainder operator is sometimes incorrectly referred to as the 
+"modulus" operator. It is very similar to modulus, but does not work properly with negative numbers. */
+
+// Exammple of rainder operator % usage
+
+var remainder;
+remainder = 11 % 3;           // This will set remainder to 1
+
 // End of Simple arithmetic, incrementation, and decrementation
