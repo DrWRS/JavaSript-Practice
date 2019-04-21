@@ -73,9 +73,19 @@ a = a + 12;
 b = 9 + b;
 c = c + 7;
 
-// use this assigment instead to achieve the same results with fewer keystrokes
+// use this assignment instead to achieve the same results with fewer keystrokes
 a += 12;
 b += 9;
 c += 7;
+
+// The opposite is also true with the assignment -=
+
+var a = 11;
+var b = 9;
+var c = 3;
+
+a -= 6;
+b -= 15;
+c -= 1;
 
 // End of Simple arithmetic, incrementation, and decrementation
