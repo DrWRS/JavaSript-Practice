@@ -10,3 +10,5 @@ Added examples of simple arithmetic
 Added examples of decimal/floating point numbers
 
 Added examples of multiplication and division of decimals/floating numbers
+
+Added String Work commit
