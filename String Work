@@ -60,7 +60,7 @@ FirstLine
     \SecondLine
 ThirdLine */
 
-var myStr = 'FirstLine\n\t\\SecondLine \n ThirdLine; // This will display the example correctly as requested
+var myStr = 'FirstLine\n\t\\SecondLine\nThirdLine'; // This will display the example correctly as requested
 
 // End of String examples
 
