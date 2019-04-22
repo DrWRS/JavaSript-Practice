@@ -53,14 +53,23 @@ Code	Output:
 \b	backspace
 \f	form feed
 
-Note - that the backslash itself must be escaped in order to display as a backslash.
-Assign the following three lines of text into the single variable myStr using escape sequences.
+Note - that the backslash itself must be escaped in order to display as a backslash. */
+
+// Assign the following three lines of text into the single variable myStr using escape sequences.
 
 FirstLine
     \SecondLine
-ThirdLine */
+ThirdLine 
 
 var myStr = 'FirstLine\n\t\\SecondLine\nThirdLine'; // This will display the example correctly as requested
+
+/* In JavaScript, when the + operator is used with a String value, it is called the concatenation operator. 
+You can build a new string out of other strings by concatenating them together.
+
+Example - 'My name is Alan,' + ' I concatenate.'
+Note - Watch out for spaces. Concatenation does not add spaces between concatenated strings, so you'll need to add them yourself. */
+
+var myStr = 'This is the start.' + ' This is the end.';
 
 // End of String examples
 
