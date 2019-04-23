@@ -16,7 +16,7 @@ Multi-dimensional Array. */
 var ourArray = [["the universe", 42], ["everything", 101010]];
 
 // Example 2
-var myArray = [["Marijuan", 420], ["Poker", 415]];
+var myArray = [["Marijuana", 420], ["Poker", 415]];
 
 /* Access Array Data with Indexes
 We can access the data inside arrays using indexes.
@@ -38,5 +38,13 @@ Although JavaScript is able to process this correctly, this may confuse other pr
 var myArray = [50,60,70];
 //  Set the myData variable to equal the first myArray index value
 var myData = myArray[0]; // equals 50
+
+/* Modify Array Data With Indexes
+Unlike strings, the entries of arrays are mutable and can be changed freely.
+
+Example
+
+var ourArray = [50,40,30];
+ourArray[0] = 15; // equals [15,40,30] */
 
 // End Arrays Commit
