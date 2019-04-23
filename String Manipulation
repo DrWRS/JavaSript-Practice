@@ -63,4 +63,18 @@ var myStr = "Jello World";
 // Fix Me
 myStr = "Hello World"; // this is the solution not mStr[0] = "H";
 
+/* Use Bracket Notation to Find the Nth Character in a String
+You can also use bracket notation to get the character at other positions within a string.
+Remember that computers start counting at 0, so the first character is actually the zeroth character. */
+
+// Example
+var firstName = "Ada";
+var secondLetterOfFirstName = firstName[1];
+
+// Setup
+var lastName = "Lovelace";
+
+// Find the 3rd letter of the last name
+var thirdLetterOfLastName = lastName[2]; // this will set the thirdLetterOfLastName to "v" {0 based counting... L{0}, O{1}, V{2}...etc.}
+
 // End String Manipulation Commit
