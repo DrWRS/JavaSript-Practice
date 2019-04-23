@@ -42,6 +42,6 @@ var firstLetterOfLastName = "";
 var lastName = "Lovelace";
 
 // First letter of last name
-firstLetterOfLastName = lastName [0];
+firstLetterOfLastName = lastName[0];
 
 // End String Manipulation Commit
