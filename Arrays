@@ -8,4 +8,16 @@ square bracket, and put a comma between each entry, like this:  var sandwich = [
 
 var myArray = ["Marijuana", 420];
 
+/* Nest one Array within Another Array
+You can also nest arrays within other arrays, like this: [["Bulls", 23], ["White Sox", 45]]. This is also called a 
+Multi-dimensional Array. */
+
+// Example 1
+var ourArray = [["the universe", 42], ["everything", 101010]];
+
+// Example 2
+var myArray = [["Marijuan", 420], ["Poker", 415]];
+
+/* */
+
 // End Arrays Commit
