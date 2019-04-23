@@ -58,4 +58,9 @@ be changed. The only way to change myStr would be to assign it with a new string
 var myStr = "Bob";
 myStr = "Job";  */
 
+// Example myStr value has a typo...
+var myStr = "Jello World";
+// Fix Me
+myStr = "Hello World"; // this is the solution not mStr[0] = "H";
+
 // End String Manipulation Commit
