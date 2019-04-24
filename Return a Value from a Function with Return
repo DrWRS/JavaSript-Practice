@@ -1,1 +1,25 @@
+/* Return a Value from a Function with Return
+We can pass values into a function with arguments. You can use a return statement to send a value back out of a function.
 
+Example
+
+function plusThree(num) {
+  return num + 3;
+}
+var answer = plusThree(5); // 8
+plusThree takes an argument for num and returns a value equal to num + 3. */
+
+// Example
+function minusSeven(num) {
+  return num - 7;
+}
+console.log(minusSeven(10));  // Returns a result of 3
+
+// Custom example
+function timesFive(num) {
+  return num * 5;
+}
+var answer = timesFive(5);  //  Returns a result of 25
+console.log(minusSeven(10));
+
+// End Return a Value from a Function with Return commit
