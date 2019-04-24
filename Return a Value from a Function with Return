@@ -20,6 +20,5 @@ function timesFive(num) {
   return num * 5;
 }
 var answer = timesFive(5);  //  Returns a result of 25
-console.log(minusSeven(10));
 
 // End Return a Value from a Function with Return commit
