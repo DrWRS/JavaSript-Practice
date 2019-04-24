@@ -9,3 +9,6 @@
 4/21 - Updated Sting work commit with notes about multiple quotes and escape characters
 4/23 - Added 2 Array commits
 4/23 - Created commit for reusable code examples utilizing functions, the real meat of coding
+4/24 - Created commit for Global Scope Functions
+4/24 - Created commit for Local Scope Functions
+4/24 - Created commit for Global vs Local Scope Functions
