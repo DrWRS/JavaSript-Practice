@@ -25,6 +25,6 @@ function processArg(num) {
 
 // Only change code below this line
 
-processed = processArg (7); // Equals 2
+processed = processArg(7); // Equals 2
 
 // End Assignment with a Returned Value commit
