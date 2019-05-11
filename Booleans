@@ -1,1 +1,16 @@
+Another data type is the Boolean. Booleans may only be one of two values: true or false. They are basically little 
+on-off switches, where true is "on" and false is "off." These two states are mutually exclusive.
 
+Note
+Boolean values are never written with quotes. The strings "true" and "false" are not Boolean and have no special 
+meaning in JavaScript.
+
+// Example 1
+
+function welcomeToBooleans() {
+
+//return false; // Change this line to return true instead of false
+
+return true; // This will return a true boolean
+
+}
