@@ -43,10 +43,18 @@ function ourTrueOrFalse(isItTrue) {
 // Setup
 function trueOrFalse(wasThatTrue) {
 
-// Add code here to complete the emaple problem
+  // Only change code below this line.
   
+  if (wasThatTrue) {
+    return "Yes, that was true";
+  }
+  return "No, that was false";
+  
+  // Only change code above this line.
 
 }
 
 // Change this value to test
 trueOrFalse(true);
+
+// End Conditional Logic with If Statements Commit
