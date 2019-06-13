@@ -12,3 +12,4 @@
 4/24 - Created commit for Global Scope Functions
 4/24 - Created commit for Local Scope Functions
 4/24 - Created commit for Global vs Local Scope Functions
+6/12 - Updated The Readme, Have added multiple commits for JavaScript Practice work with explanations and examples
